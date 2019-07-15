@@ -1,11 +1,6 @@
-﻿  FractalCreator.cpp
-c:\users\s179065\desktop\fractal_images\fractal_image_generation_c++\fractalcreator.cpp(18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\s179065\desktop\fractal_images\fractal_image_generation_c++\fractalcreator.cpp(148): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
-c:\users\s179065\desktop\fractal_images\fractal_image_generation_c++\fractalcreator.cpp(149): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
-c:\users\s179065\desktop\fractal_images\fractal_image_generation_c++\fractalcreator.cpp(150): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
-  Mandelbrot.cpp
+﻿  Fractal_Image_Generation_C++.cpp
   Generating code
-  9 of 424 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+  1 of 424 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
     0 functions were new in current compilation
     0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
