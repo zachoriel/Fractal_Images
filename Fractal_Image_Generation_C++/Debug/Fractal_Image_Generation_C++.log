@@ -1,0 +1,14 @@
+﻿  FractalCreator.cpp
+c:\users\zach\source\repos\fractal_image_generation_c++\fractal_image_generation_c++\fractalcreator.cpp(18): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+c:\users\zach\source\repos\fractal_image_generation_c++\fractal_image_generation_c++\fractalcreator.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\zach\source\repos\fractal_image_generation_c++\fractal_image_generation_c++\fractalcreator.cpp(46): warning C4018: '<': signed/unsigned mismatch
+c:\users\zach\source\repos\fractal_image_generation_c++\fractal_image_generation_c++\fractalcreator.cpp(148): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\users\zach\source\repos\fractal_image_generation_c++\fractal_image_generation_c++\fractalcreator.cpp(149): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+c:\users\zach\source\repos\fractal_image_generation_c++\fractal_image_generation_c++\fractalcreator.cpp(150): warning C4244: '=': conversion from 'double' to 'uint8_t', possible loss of data
+  Fractal_Image_Generation_C++.cpp
+  Generating Code...
+  Fractal_Image_Generation_C++.vcxproj -> C:\Users\Zach\source\repos\Fractal_Image_Generation_C++\Debug\Fractal_Image_Generation_C++.exe
