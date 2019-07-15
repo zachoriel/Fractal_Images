@@ -10,7 +10,7 @@ void FractalCreator::Run(string name)
 	CalculateTotalIterations();
 	CalculateRangeTotals();
 	DrawFractal();
-	WriteBitmap("test.bmp");
+	WriteBitmap(name);
 }
 
 void FractalCreator::AddRange(double rangeEnd, const RGB& rgb)
